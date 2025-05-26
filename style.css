@@ -53,7 +53,7 @@ section {
 
 @font-face {
   font-family: BigShoulders;
-  src: url(./Big_Shoulders/static/BigShoulders-Medium.ttf);
+  src: url(./BigShoulders-Medium.ttf);
   font-weight: bold;
 }
 
@@ -68,7 +68,7 @@ h3 {
 
 @font-face {
   font-family: LexendDeca;
-  src: url(./Lexend_Deca/static/LexendDeca-Regular.ttf);
+  src: url(./LexendDeca-Regular.ttf);
   font-weight: regular;
 }
 
