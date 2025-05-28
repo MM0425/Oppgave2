@@ -53,6 +53,7 @@ section {
 
 figure {
   width: 65px;
+  height: 40px;
 }
 
 @font-face {
@@ -64,10 +65,13 @@ figure {
 h1,
 h2,
 h3 {
-  padding: 35px 0 35px 0;
+  width: 100px;
+  height: 40px;
+  margin: 33px 0 33px 0;
 
   font: 700 40px BigShoulders;
   color: hsl(0, 0%, 95%);
+  justify-content: start;
 }
 
 @font-face {
@@ -77,6 +81,8 @@ h3 {
 }
 
 p {
+  width: 210px;
+  height: 125px;
   font: 400 15px LexendDeca;
   line-height: 25px;
   color: hsla(0, 0%, 100%, 0.75);
