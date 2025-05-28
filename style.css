@@ -36,7 +36,7 @@ section {
   justify-content: space-between;
 }
 
-#sedan_section {
+#sedans_section {
   border-radius: 8px 0 0 8px;
   background-color: hsl(31, 77%, 52%);
 }
@@ -49,6 +49,10 @@ section {
   border-radius: 0 8px 8px 0;
 
   background-color: hsl(179, 100%, 13%);
+}
+
+figure {
+  width: 65px;
 }
 
 @font-face {
